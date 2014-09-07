@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HomeActivity" >
+    <item android:id="@+id/action_matches"
+        android:title="@string/action_example"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/buycar"/>
+    <item android:id="@+id/action_settings"
+        android:title="Check out"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

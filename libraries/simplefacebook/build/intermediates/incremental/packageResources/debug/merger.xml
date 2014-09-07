@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/hugo/AndroidStudioProjects/SmartPocket/libraries/simplefacebook/res" >
+            <file
+                path="/Users/hugo/AndroidStudioProjects/SmartPocket/libraries/simplefacebook/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Simple Facebook
+                </string>
+            </file>
+        </source>
+        <source path="/Users/hugo/AndroidStudioProjects/SmartPocket/libraries/simplefacebook/build/generated/res/rs/debug" />
+        <source path="/Users/hugo/AndroidStudioProjects/SmartPocket/libraries/simplefacebook/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/hugo/AndroidStudioProjects/SmartPocket/libraries/simplefacebook/src/debug/res" />
+    </dataSet>
+
+</merger>

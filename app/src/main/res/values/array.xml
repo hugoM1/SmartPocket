@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ns_menu_items">
+        <item>drawer_home</item>
+        <item>drawer_history</item>
+        <item>drawer_payments</item>
+        <item>drawer_monthly</item>
+    </string-array>
+
+    <array name="ns_menu_items_icon">
+        <item>icon_home</item>
+        <item>icon_list</item>
+        <item>icon_payments</item>
+        <item>icon_mounthly</item>
+    </array>
+
+</resources>
